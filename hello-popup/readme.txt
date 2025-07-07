@@ -5,7 +5,7 @@ Tags: popup, alert, modal, notification, marketing
 Requires at least: 5.2
 Tested up to: 6.8
 Requires PHP: 7.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -47,6 +47,7 @@ It uses localStorage to remember if the user has closed the popup, based on the 
 - Customize title and message content
 - Add CTA button with custom text, link, and color
 - Use shortcodes inside the popup content
+- Customize popup close button icon color 
 
 📄 **Page Targeting**
 - Select specific pages for popup display
@@ -81,4 +82,9 @@ It uses localStorage to remember if the user has closed the popup, based on the 
 1. Popup preview on the frontend
 2. Popup settings page in admin dashboard
 3. Page selection option for popup display
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release with full popup settings, page targeting, shortcode support, and fade animations.
 
